@@ -1,0 +1,41 @@
+/* Google Font Import */
+
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@700&family=Space+Mono:wght@400;700&display=swap');
+
+/*
+Fonts can use used as follows:
+font-family: 'Inconsolata', monospace;
+font-family: 'Space Mono', monospace;
+*/
+
+/* Global */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+max-width: 1440px;
+margin: 0 auto;
+
+}
+
+.container {
+    width: 90%;
+    margin: 0 auto;
+}
+
+h1 {
+
+}
+
+h2 {
+    font-family: 'Inconsolata', monospace;
+    font-size: 24px;
+}
+
+p {
+
+}

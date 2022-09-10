@@ -37,7 +37,6 @@ h2 {
     font-family: 'Inconsolata', monospace;
     font-size: 24px;
     text-transform: uppercase;
-    padding: ;
     font-weight: 700;
 
 }
@@ -64,6 +63,7 @@ align-items: center;
 width: 539px;
 height: auto;
 }
+
 
 .content-text {
 

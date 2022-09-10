@@ -46,3 +46,29 @@ p {
     font-family: 'Space Mono', monospace;
     font-size: 24px;
 }
+
+button {
+
+}
+
+/* Classes */
+
+.content-container {
+margin-top: 50px;
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+
+.content-img {
+width: 539px;
+height: auto;
+}
+
+.content-text {
+
+}
+
+.footer {
+font-size: 14px;
+}

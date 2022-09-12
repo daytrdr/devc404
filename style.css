@@ -56,8 +56,12 @@ h2 {
     font-family: 'Inconsolata', monospace;
     font-size: 24px;
     text-transform: uppercase;
+<<<<<<< HEAD
     padding: 20px;
     font-weight: 400;
+=======
+    font-weight: 700;
+>>>>>>> 217ad6e830b71e2425354866a78d3d18b0d35217
 
 }
 
@@ -67,6 +71,7 @@ p {
 }
 
 button {
+<<<<<<< HEAD
     all: unset;
     margin-top: 24px;
     background-color: #333333;
@@ -124,4 +129,30 @@ padding: 20px;
         margin-top: 50px;
         font-size: 35px;
     }
+=======
+
+}
+
+/* Classes */
+
+.content-container {
+margin-top: 50px;
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+
+.content-img {
+width: 539px;
+height: auto;
+}
+
+
+.content-text {
+
+}
+
+.footer {
+font-size: 14px;
+>>>>>>> 217ad6e830b71e2425354866a78d3d18b0d35217
 }
